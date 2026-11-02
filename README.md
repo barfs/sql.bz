@@ -1,38 +1,21 @@
-# sv
+# sql.bz
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A personal catalog styled as a Windows 98 SQL Server manager. Built with SvelteKit (Svelte 5) and [98.css](https://jdan.github.io/98.css/), served as a static site.
 
-## Creating a project
+Every CSV in [src/lib/tables/](src/lib/tables/) becomes a read-only table you can query with a small SQL dialect (`SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`, `LIMIT`, `COUNT`). See the header of [src/lib/sql/parser.ts](src/lib/sql/parser.ts) for the full syntax.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Develop
 
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
+```sh
+npm install
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
+## Build
 
-To create a production version of your app:
-
-```bash
-npm run build
+```sh
+npm run build    # outputs the site to build/
+npm run preview  # serves build/ locally
 ```
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Deployment to GitHub Pages or Fastmail is covered in [DEPLOY.md](DEPLOY.md).

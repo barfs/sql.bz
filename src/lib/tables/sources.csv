@@ -1,0 +1,7 @@
+id,name,url,type,description
+1,direct,,self,Found or already knew about it
+2,hn,https://news.ycombinator.com,aggregator,Found on Hacker News
+3,reddit,https://reddit.com,aggregator,Found on Reddit
+4,twitter,https://twitter.com,social,Found on Twitter/X
+5,recommendation,,personal,Recommended by someone I know
+6,search,,engine,Found via search engine

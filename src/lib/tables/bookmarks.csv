@@ -1,0 +1,31 @@
+id,title,url,description,category,tag,source,format,priority,status,rating,added,notes
+1,MDN Web Docs,https://developer.mozilla.org,Comprehensive web platform reference,reference,docs,direct,website,high,active,5,2025-01-10,Go-to for HTML/CSS/JS docs
+2,Svelte Documentation,https://svelte.dev/docs,Official Svelte framework docs,reference,framework,direct,website,high,active,5,2025-02-14,Primary framework reference
+3,Hacker News,https://news.ycombinator.com,Tech news aggregator,news,aggregator,direct,website,medium,active,4,2025-03-01,Daily reading
+4,Can I Use,https://caniuse.com,Browser compatibility tables,tool,compatibility,direct,website,high,active,5,2025-03-12,Check before using new features
+5,GitHub,https://github.com,Code hosting and collaboration,tool,dev-platform,direct,website,high,active,5,2025-04-01,All my repos
+6,Lobsters,https://lobste.rs,Computing-focused link aggregator,news,aggregator,recommendation,website,medium,active,4,2025-04-15,Higher signal than HN
+7,TypeScript Handbook,https://www.typescriptlang.org/docs/handbook,Official TS language guide,reference,docs,direct,website,high,active,4,2025-05-02,Revisit generics section
+8,CSS-Tricks,https://css-tricks.com,CSS guides and tricks,reference,tutorial,search,website,medium,active,4,2025-05-20,Great flexbox/grid guides
+9,Roadmap.sh,https://roadmap.sh,Developer learning roadmaps,learning,roadmap,reddit,website,medium,active,4,2025-06-01,Good for planning study paths
+10,The Pragmatic Engineer,https://newsletter.pragmaticengineer.com,Software engineering newsletter,news,newsletter,recommendation,newsletter,medium,active,5,2025-06-10,Industry insights
+11,SQLite Documentation,https://www.sqlite.org/docs.html,SQLite reference and guides,reference,docs,direct,website,medium,active,4,2025-06-15,Useful for embedded DB projects
+12,Excalidraw,https://excalidraw.com,Collaborative whiteboard sketching,tool,diagramming,recommendation,webapp,medium,active,5,2025-07-01,Quick architecture diagrams
+13,Regex101,https://regex101.com,Regular expression tester,tool,testing,search,webapp,high,active,5,2025-07-10,Fastest way to debug regex
+14,JSON Crack,https://jsoncrack.com,JSON data visualizer,tool,visualization,reddit,webapp,low,active,3,2025-07-15,Useful for large JSON blobs
+15,Julia Evans Blog,https://jvns.ca,Zines and blog posts on systems,blog,systems,recommendation,website,medium,active,5,2025-07-20,Amazing networking/linux explainers
+16,Tailwind CSS,https://tailwindcss.com/docs,Utility-first CSS framework docs,reference,framework,direct,website,high,active,4,2025-08-01,v4 rewrite notes
+17,Fly.io Blog,https://fly.io/blog,Infrastructure and distributed systems blog,blog,infrastructure,hn,website,medium,active,4,2025-08-10,Great Elixir/distributed content
+18,Ray.so,https://ray.so,Beautiful code snippet images,tool,presentation,twitter,webapp,low,active,3,2025-08-15,For sharing code on socials
+19,Marginalia Search,https://search.marginalia.nu,Independent search engine for text-heavy sites,tool,search-engine,hn,website,medium,active,4,2025-08-20,Finds old-web content Google misses
+20,Every Layout,https://every-layout.dev,CSS layout primitives,reference,css,recommendation,website,medium,active,5,2025-09-01,Compositional CSS layouts
+21,Nand2Tetris,https://www.nand2tetris.org,Build a computer from logic gates,learning,course,recommendation,course,low,queued,5,2025-09-10,Been meaning to do this
+22,Zig Language,https://ziglang.org,System programming language,reference,language,hn,website,low,active,3,2025-09-15,Keep an eye on this
+23,Buttondown,https://buttondown.com,Newsletter platform,tool,publishing,direct,webapp,low,active,3,2025-09-20,Potential newsletter tool
+24,Monkeytype,https://monkeytype.com,Typing speed test,fun,typing,reddit,webapp,low,active,4,2025-09-25,Procrastination fuel
+25,Archive.org,https://archive.org,Internet Archive / Wayback Machine,tool,archival,direct,website,medium,active,5,2025-10-01,Essential for dead links
+26,Datasette,https://datasette.io,Instant JSON API for SQLite databases,tool,data,hn,webapp,medium,queued,4,2025-10-05,Explore datasets easily
+27,Charm.sh,https://charm.sh,Beautiful TUI tools and libraries,reference,cli,hn,website,medium,active,4,2025-10-10,Glow/Bubble Tea/etc
+28,Things I Learnt,https://danluu.com,Dan Luu's engineering blog,blog,engineering,hn,website,medium,active,5,2025-10-15,Deep technical analysis
+29,Explained Visually,https://setosa.io/ev,Interactive visual math/CS explanations,learning,visualization,reddit,website,low,archived,5,2025-10-20,Eigenvalues explanation is gold
+30,htmx,https://htmx.org,Hypermedia-driven web framework,reference,framework,hn,website,medium,active,4,2025-10-25,HTML-first approach

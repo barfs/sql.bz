@@ -1,0 +1,4 @@
+id,name,icon,description
+1,high,🔴,Visit frequently or critical reference
+2,medium,🟠,Useful but not daily
+3,low,🔵,Nice to have or occasional use

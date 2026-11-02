@@ -1,0 +1,4 @@
+id,name,description,icon
+1,active,Currently in use / visited regularly,🟢
+2,queued,Saved to check out later,🟡
+3,archived,No longer active but worth keeping,📦

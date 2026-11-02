@@ -1,0 +1,25 @@
+id,name,category,color,description
+1,docs,reference,#4a90d9,Official documentation sites
+2,framework,reference,#e07b39,Web framework resources
+3,tutorial,reference,#d94a7a,Step-by-step learning guides
+4,css,reference,#264de4,CSS-specific references
+5,language,reference,#7b4ae0,Programming language resources
+6,cli,reference,#39e077,Command-line tools and libraries
+7,aggregator,news,#50b83c,Link aggregation sites
+8,newsletter,news,#8bc34a,Email newsletters
+9,dev-platform,tool,#9c6ade,Development platforms and hosting
+10,compatibility,tool,#e0c139,Browser and platform compat tables
+11,testing,tool,#e06939,Testing and debugging tools
+12,visualization,tool,#39c5e0,Data and code visualization
+13,diagramming,tool,#e039b8,Drawing and diagramming tools
+14,search-engine,tool,#39e0a5,Search and discovery tools
+15,presentation,tool,#d9d94a,Code sharing and presentation
+16,publishing,tool,#b8e039,Publishing and content tools
+17,data,tool,#e09c39,Data exploration tools
+18,archival,tool,#808080,Archival and preservation tools
+19,systems,blog,#c0392b,Systems and infrastructure topics
+20,engineering,blog,#2c3e50,Software engineering topics
+21,infrastructure,blog,#8e44ad,Infrastructure and ops topics
+22,roadmap,learning,#f39c12,Learning path guides
+23,course,learning,#27ae60,Structured courses
+24,typing,fun,#e74c3c,Typing and keyboard activities
